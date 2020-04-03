@@ -1,5 +1,9 @@
 # 学习opengl
 
+## bezier 二或三次Bezier曲线
+
+## bspline 二次B样条曲线
+
 ## oblique_projection 正方体的斜平行投影
 
 ## positive_projection 正方体的正轴测图
