@@ -14,7 +14,7 @@
 
 ## simple_pattern 绘制简单图形，如三角形正方形和点
 
-## Terahedron 绘制四面体
+## terahedron 绘制四面体
 
 ## three_vision 正方形的三视图
 
