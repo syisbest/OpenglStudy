@@ -16,6 +16,8 @@
 
 ## terahedron 绘制四面体
 
+## texture_mapping 纹理映射
+
 ## three_vision 正方形的三视图
 
 ## tra_transform  矩阵相乘计算复合变换矩阵，绘制旋转平移三角形 
