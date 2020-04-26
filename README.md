@@ -4,6 +4,8 @@
 
 ## bspline 二次B样条曲线
 
+## bspline_hookface b样条曲面
+
 ## oblique_projection 正方体的斜平行投影
 
 ## positive_projection 正方体的正轴测图
@@ -13,6 +15,8 @@
 ## sierpinski_gasket 描点法和画线法绘制镂空三角形
 
 ## simple_pattern 绘制简单图形，如三角形正方形和点
+
+## solar_system 太阳系
 
 ## terahedron 绘制四面体
 
